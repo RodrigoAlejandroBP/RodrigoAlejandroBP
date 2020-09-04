@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoalejandrobp" alt="rodrigoalejandrobp" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React, Vue.js, Express, Apis, Firebase**
+- 🌱 Actualmente estoy aprendiendo **React, Vue.js, Express, Apis, Firebase, SAP**
 
 - 💬 Preguntame por **Diseño y maqueteado de páginas web**
 
