@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Rodrigo Bravo</h1>
-<h3 align="center">Estudiante de ingeniería en informática de quinto año de la Universidad Católica del Maule.</h3>
+<h3 align="center">Titulado en Ingeniería Civil en informática Universidad Católica del Maule.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoalejandrobp" alt="rodrigoalejandrobp" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React, Apis, Firebase, SAP**
+- 🌱 Actualmente estoy aprendiendo **AWS, React, Odoo, Springboot**
 
 - 💬 Preguntame por **Diseño y maqueteado de páginas web**
 
