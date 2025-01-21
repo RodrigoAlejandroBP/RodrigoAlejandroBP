@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoalejandrobp" alt="rodrigoalejandrobp" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **AWS, React, Odoo, Springboot**
+- 🌱 Actualmente estoy aprendiendo **AWS e Ingles**
 
 - 💬 Preguntame por **Diseño y maqueteado de páginas web**
 
@@ -20,9 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoalejandrobp&show_icons=true&locale=en" alt="rodrigoalejandrobp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoalejandrobp&" alt="rodrigoalejandrobp" /></p>
-
-
-<p align="center">
-<a href="https://fb.com/rodrigouale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rodrigouale" height="30" width="30" /></a>
-</p>
